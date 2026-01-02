@@ -24,13 +24,13 @@ I enjoy turning ideas into visual, responsive experiences that feel smooth and i
 
 Here are some projects from my GitHub that represent what I like to build:
 
-- **IRLAnti-Virus**  
+-  **[IRL Anti-Virus](https://github.com/leslyvv/IRLAnti-Virus)**   
   Virus‑themed / Doctor appointment booking web app with frontend (client/), backend PHP (backend/), and MySQL database.
 
-- **HangmanProject**  
+- **[HangmanProject](https://github.com/TheTahaM/HangmanProject)** 
   HTML/CSS/PHP Hangman with login/signup, levels, clues, and dynamic visuals.
 
-- **PortfolioV1.2**  
+- **[PortfolioV1.2](https://github.com/TheTahaM/PortfolioV1.2)** 
    My stylish website showing off my 3D animation skills, made with Blender.
 
 ---
