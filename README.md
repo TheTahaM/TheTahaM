@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Taha Muhidin 👋
 
 I'm a **creative** developer who loves designing clean, modern websites and building 3D models and interactive projects.  
