@@ -46,9 +46,8 @@ If you want to collaborate on a visually interesting website, a landing page, or
 
 ## 📫 Contact
 
-- Email: your-email-here
-- LinkedIn: your-LinkedIn-link-here
-- Portfolio: your‑portfolio‑site (if you have one)
+- Email: tahatrademark@gmail.com
+- LinkedIn: https://www.linkedin.com/in/taha-muhidin-6842aa283/
 
 Thanks for visiting my profile! 👋
 
