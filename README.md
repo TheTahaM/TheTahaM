@@ -12,10 +12,11 @@ I enjoy turning ideas into visual, responsive experiences that feel smooth and i
 ## 🛠 Tech & Tools
 
 - Languages: HTML, CSS, JavaScript
-- Frontend: (Add React, Vue, Svelte, or others you use)
-- Design: Figma / Adobe XD / (your tools here)
-- 3D / Creative: Blender / Three.js / (your tools here)
-- Other: Git, GitHub, (add anything relevant)
+- Frontend: React, Vue
+- Backend: Java, Django, C#, .NET, SQL, PHP
+- Design: Figma / Photoshop
+- 3D / Creative: Blender / Three.js / Unity / Unreal Engine
+- Other: Git, GitHub
 
 ---
 
